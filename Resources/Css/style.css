@@ -5,13 +5,31 @@ body {
     
 }
 
-header--main{
+/* HEADERS */
+
+.header--main{
     font-weight: normal;
     font-size: 50px;
     color: #fff;
 }
 
-link--cta {
+.header--secondary{
+    font-weight: 300;
+    font-size: 42px;
+    color: #fff;
+}
+
+.header--sub-header{
+    font-weight: 300;
+    font-size: 21px;
+    color: grey;
+}
+
+/* Links */
+
+
+
+.link--cta {
     font-weight: normal;
     font-size: 16px;
     color: aquamarine;
